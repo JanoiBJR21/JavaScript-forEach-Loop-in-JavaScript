@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
